@@ -1,1 +1,8 @@
 Porfolio building using chakra ui and framer
+
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+npm install -D tailwindcss postcss autoprefixer
