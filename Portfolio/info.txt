@@ -9,3 +9,6 @@ npm install -D tailwindcss postcss autoprefixer
 
 Chakra UI: https://theme-ui.com/
 https://styled-components.com/
+
+course:
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP
