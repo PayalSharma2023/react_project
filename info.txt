@@ -30,3 +30,7 @@ import { Box, Container, filter, Heading, SimpleGrid, Text } from "@chakra-ui/re
   )
 
   npm i @chakra-ui/icons
+
+  npm i -g json-server
+
+  json-server -w file_path : will give endpoint to fetch the data
